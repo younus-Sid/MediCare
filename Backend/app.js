@@ -14,7 +14,7 @@ const app = express();
 config({path:"./config/config.env"});
 
 app.use(cors({
-    origin: [process.env.FRONTEND_URL,"https://medicare-git-master-younussids-projects.vercel.app/login"],
+    origin: [process.env.FRONTEND_URL,process.env.DASHBOARD_URL],
     methods: ["GET","POST","PUT","DELETE"],
     credentials: true,
 })
