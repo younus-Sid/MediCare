@@ -1,0 +1,827 @@
+[{
+  "_id": {
+    "$oid": "662f03448171c1ee75e23524"
+  },
+  "firstName": "Ashhar",
+  "lastName": "Rahman",
+  "email": "rahman456@gmail.com",
+  "phone": "1234567890",
+  "dob": {
+    "$date": {
+      "$numberLong": "1005350400000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$59Q6HTENoEKGB.75TdcmKuBYbW6CT3gvllLv3aCikPhX./tFjjJcC",
+  "role": "Admin",
+  "__v": 0,
+  "aadhaar": "123456789012"
+},{
+  "_id": {
+    "$oid": "662f0a4d8171c1ee75e2353a"
+  },
+  "firstName": "Dr. Radha",
+  "lastName": "Mohan",
+  "email": "radha567@gmail.com",
+  "phone": "8765432100",
+  "dob": {
+    "$date": {
+      "$numberLong": "651369600000"
+    }
+  },
+  "gender": "Female",
+  "password": "$2b$10$jgcN/ZFJX.iohq7Qj2vhLu/aFjkJT2mm2NKeNeSOtkuQ.a3lkUnza",
+  "role": "Doctor",
+  "doctorDepartment": "Paediatrics",
+  "docAvatar": {
+    "public_id": "ho5ci9gxwjqey7d4eqwz",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1714358861/ho5ci9gxwjqey7d4eqwz.jpg"
+  },
+  "__v": 0,
+  "aadhaar": "123456789012"
+},{
+  "_id": {
+    "$oid": "662f0c7a8171c1ee75e23566"
+  },
+  "firstName": "Ashraf",
+  "lastName": "Ali",
+  "email": "aliashraf@gmail.com",
+  "phone": "9876543210",
+  "dob": {
+    "$date": {
+      "$numberLong": "1001548800000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$CbciXRa1haklo/Cw91KXoeCvPpVW2rw72W8.6AMKbHNGi3ILBl8BK",
+  "role": "Patient",
+  "__v": 0,
+  "aadhaar": "123456789012",
+  "notification": false
+},{
+  "_id": {
+    "$oid": "662fac552a5964b74c69348c"
+  },
+  "firstName": "Tejus",
+  "lastName": "Rai",
+  "email": "tejus@gmail.com",
+  "phone": "9876543211",
+  "dob": {
+    "$date": {
+      "$numberLong": "946684800000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$C06aTqh0DEy/1M3OgvrGmOhGlM8a0Dg3pmqXJx7Kndn.dXKRsXMrO",
+  "role": "Patient",
+  "__v": 0,
+  "aadhaar": "123456789012",
+  "notification": false
+},{
+  "_id": {
+    "$oid": "662fb705aefce3d1af4c6330"
+  },
+  "firstName": "Vinay",
+  "lastName": "Singh",
+  "email": "vinay@gmail.com",
+  "phone": "9876543212",
+  "dob": {
+    "$date": {
+      "$numberLong": "965779200000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$g3P6XsQyIku2EgEseuP8kOQDKlhskc8eeif5xezvig25a3r/ICOVG",
+  "role": "Patient",
+  "__v": 0,
+  "aadhaar": "123456789012",
+  "notification": false
+},{
+  "_id": {
+    "$oid": "662fdab3aefce3d1af4c63cc"
+  },
+  "firstName": "Yusuf",
+  "lastName": "Siddiqui",
+  "email": "yusuf@gmail.com",
+  "phone": "9876543213",
+  "dob": {
+    "$date": {
+      "$numberLong": "907545600000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$htJ7iP2oH/LW5/FRA6/znePYGEjn.U0KIk353EGA6A4qjzt8i2F4C",
+  "role": "Patient",
+  "__v": 0,
+  "aadhaar": "123456789012",
+  "notification": false
+},{
+  "_id": {
+    "$oid": "6630025bd208fca0c86431ff"
+  },
+  "firstName": "Rahul",
+  "lastName": "Ranjan",
+  "email": "rahul@gmail.com",
+  "phone": "9876543214",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "976147200000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$1iPIKgtWZ33zesaJ2YASaOVohJ1FpbndYlHJ.ITkcFv2UqRYKhi8u",
+  "role": "Patient",
+  "__v": 0,
+  "notification": false
+},{
+  "_id": {
+    "$oid": "664def5decfdd8f5084a88f3"
+  },
+  "firstName": "Sanaya",
+  "lastName": "Nisha",
+  "email": "sanaya@gmail.com",
+  "phone": "9876543215",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "801532800000"
+    }
+  },
+  "gender": "Female",
+  "password": "$2b$10$VFFCeANac/T3vTE1SJr1Y.oitK3YRBD7oXYKNs3ekpUQugntaiFz.",
+  "role": "Patient",
+  "notification": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6650363a60849978a6f03147"
+  },
+  "firstName": "Dr. A",
+  "lastName": "Nagesh",
+  "email": "nagesh67@gmail.com",
+  "phone": "8765432101",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "467856000000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$ROlT/pqG3L0S5u6VCRfQdO8naY2TExC5.XUipTQLYrtRds13wHaIO",
+  "role": "Doctor",
+  "doctorDepartment": "Cardiology",
+  "docAvatar": {
+    "public_id": "lfkiuslhimsgcchd5kk4",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1716532793/lfkiuslhimsgcchd5kk4.webp"
+  },
+  "notification": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "665036a860849978a6f03157"
+  },
+  "firstName": "Dr. A.R.M",
+  "lastName": "Harika",
+  "email": "arm3@gmail.com",
+  "phone": "8765432102",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "610588800000"
+    }
+  },
+  "gender": "Female",
+  "password": "$2b$10$Jh3yRFrJIspz2b3Cv9aoxeDFxq4CUxNRf6EMkzS3AYYbFrCyX4I.K",
+  "role": "Doctor",
+  "doctorDepartment": "Paediatrics",
+  "docAvatar": {
+    "public_id": "c8k8ivuvte0youo7b3dc",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1716532903/c8k8ivuvte0youo7b3dc.webp"
+  },
+  "notification": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "665037bf60849978a6f0317c"
+  },
+  "firstName": "Dr. Amit",
+  "lastName": "Ingle",
+  "email": "amitingle1@gmail.com",
+  "phone": "8765432103",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "625104000000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$17U8oqSe1jpG5.Ksl7ZsY..YI84o5e05Rx571dTc.omf8ZxoZPbmm",
+  "role": "Doctor",
+  "doctorDepartment": "Radiology",
+  "docAvatar": {
+    "public_id": "rcil6leegz3yqhfp5xhl",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1716533182/rcil6leegz3yqhfp5xhl.webp"
+  },
+  "notification": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66559dc84f9e7cf13d827016"
+  },
+  "firstName": "Dr. Narayan",
+  "lastName": "Rao",
+  "email": "narayanji@gmail.com",
+  "phone": "8765432104",
+  "aadhaar": "123456789011",
+  "dob": {
+    "$date": {
+      "$numberLong": "178243200000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$x8pKSuRtQXPoYSyw5oOJiu9gYEpcGFneLGsrtHVvFtu6iHCpUO2hu",
+  "role": "Doctor",
+  "doctorDepartment": "Cardiology",
+  "docAvatar": {
+    "public_id": "jjk7svcxjd5fv21ifutz",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1716886984/jjk7svcxjd5fv21ifutz.webp"
+  },
+  "notification": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66559e2d4f9e7cf13d827025"
+  },
+  "firstName": "Dr. Atul",
+  "lastName": "Kathed",
+  "email": "kathedatul2@gmail.com",
+  "phone": "8765432105",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "683683200000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$z8W9cBy6oTQzW5nsE2Pfr.1M5CyWCHdN.Wv6bQS.Aggl3gbVmnjPK",
+  "role": "Doctor",
+  "doctorDepartment": "Dermatology",
+  "docAvatar": {
+    "public_id": "bmoq0lk91hikkysemcuk",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1716887085/bmoq0lk91hikkysemcuk.webp"
+  },
+  "notification": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66559ea74f9e7cf13d82705a"
+  },
+  "firstName": "Dr. Anand",
+  "lastName": "Soni",
+  "email": "anandsoni678@gmail.com",
+  "phone": "8765432106",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "594086400000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$U2LqtOqKbNCiYmAOr.G9TeLpTzMu0w5ZryP03bMvkpmJE61.kY8GC",
+  "role": "Doctor",
+  "doctorDepartment": "Neurology",
+  "docAvatar": {
+    "public_id": "w3uyjcqagiq0uvsgmpdr",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1716887207/w3uyjcqagiq0uvsgmpdr.webp"
+  },
+  "notification": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66559f054f9e7cf13d82706c"
+  },
+  "firstName": "Dr. Ashish",
+  "lastName": "Bagdi",
+  "email": "bagdi34@gmail.com",
+  "phone": "8765432107",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "486864000000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$QnJLJhGIkjGrqkdoAtlsDOWToZ0Q.raJPwvpqM6cq.WlzwrzuSF5G",
+  "role": "Doctor",
+  "doctorDepartment": "Neurology",
+  "docAvatar": {
+    "public_id": "yibddxmkzzimehk7y76l",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1716887301/yibddxmkzzimehk7y76l.webp"
+  },
+  "notification": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6655a3c14f9e7cf13d827282"
+  },
+  "firstName": "Ali",
+  "lastName": "Raheem",
+  "email": "raheemali@gmail.com",
+  "phone": "9876543216",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "1059955200000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$jdYHG.y3NvzCMcaWPCKvb.rC3RMj6Dfe3fWmHI0pBg0Vv.xPxST/y",
+  "role": "Patient",
+  "notification": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "661be2083c924e6203bebf8b"
+  },
+  "firstName": "Dulquer",
+  "lastName": "Salmaan",
+  "email": "dulquer23salmaan@gmail.com",
+  "phone": "9876543218",
+  "aadhaar": "123456789012",
+  "notification": false,
+  "dob": {
+    "$date": {
+      "$numberLong": "984162600000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$/ARTiAUjQvddZe/e9HhYwu2MHELLEL2dnxwJcLMlF0t.vcll3.mpu",
+  "role": "Patient",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "661be276da5451edc80c50c8"
+  },
+  "firstName": "Tarun",
+  "lastName": "Lal",
+  "email": "tarun78@gmail.com",
+  "phone": "9876543219",
+  "aadhaar": "123456789012",
+  "notification": false,
+  "dob": {
+    "$date": {
+      "$numberLong": "984162600000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$aTdpD7uQhIQEBLuDxCLZs.pDIDBzbokbPLDtFUZVIFYmbtYQCwVRq",
+  "role": "Patient",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "661bed09223e14dc0f18a7e4"
+  },
+  "firstName": "Younus",
+  "lastName": "Siddique",
+  "email": "yousid256@gmail.com",
+  "phone": "1234567891",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "1237141800000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$etSWmi2OzHNcjeqV9keBLunZfV1i/2UiL6lenDwKr.HvKFG/HImVG",
+  "role": "Admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "661c0a7e223e14dc0f18a7f2"
+  },
+  "firstName": "Dr. Adeeb",
+  "lastName": "Rahman",
+  "email": "adeebrah65@gmail.com",
+  "phone": "8765432108",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "981743400000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$w15CVJ.PlSwYmCO.eyTpE.3BAelCp9w6.yCNPWb.J7LnHhJPXBPf2",
+  "role": "Doctor",
+  "doctorDepartment": "Neurology",
+  "docAvatar": {
+    "public_id": "fuocifnci4bler2dawyi",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1713260515/dhbcytq2x1owlco9wt4q.png"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "661c13799eb834329d99c295"
+  },
+  "firstName": "Deeksha",
+  "lastName": "Yadav",
+  "email": "deeksha90@gmail.com",
+  "phone": "9876543220",
+  "aadhaar": "123456789012",
+  "notification": false,
+  "dob": {
+    "$date": {
+      "$numberLong": "984681000000"
+    }
+  },
+  "gender": "Female",
+  "password": "$2b$10$i0O9A6LtBkCpJ/URpvsfX.z0n6pQNytrzYae0liBV7b7tMpDZSgJi",
+  "role": "Patient",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "661cf8c45feae7b2fad4772b"
+  },
+  "firstName": "Sania",
+  "lastName": "Nisha",
+  "email": "sania678@gmail.com",
+  "phone": "9876543221",
+  "aadhaar": "123456789012",
+  "notification": false,
+  "dob": {
+    "$date": {
+      "$numberLong": "984681000000"
+    }
+  },
+  "gender": "Female",
+  "password": "$2b$10$TmrSGnCgQcSnDV.e0gsrpew.YvQEbXhvBIZ2A5.h/BbMfscKVFc9S",
+  "role": "Patient",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "661d0dc8bb603097e2853811"
+  },
+  "firstName": "Aditi",
+  "lastName": "Rao",
+  "email": "adirao@gmail.com",
+  "phone": "9876543222",
+  "aadhaar": "123456789012",
+  "notification": false,
+  "dob": {
+    "$date": {
+      "$numberLong": "1711929600000"
+    }
+  },
+  "gender": "Female",
+  "password": "$2b$10$1iMkCKVrr.weQ8yekJxmTO4I8S6jWt6pMVXssghFN33t4VN1CNej2",
+  "role": "Patient",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "661d0fbf526f647503ee7cc1"
+  },
+  "firstName": "Dr. Praduman",
+  "lastName": "Singh",
+  "email": "ps3532@gmail.com",
+  "phone": "8765432109",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "542485800000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$aqQi4AI52l7F19ewz845yucIcGvY6NXn9E.H0/FZk43Gc9T9lIcWa",
+  "role": "Doctor",
+  "doctorDepartment": "Radiology",
+  "docAvatar": {
+    "public_id": "fibwgaya7skoksnplbfr",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1713416740/r4xyoxu2hiwyivofgdvs.webp"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "661d113a526f647503ee7ccd"
+  },
+  "firstName": "Dr. Adarsh",
+  "lastName": "Kashyap",
+  "email": "adarshk@gmail.com",
+  "phone": "8765432110",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "353183400000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$JM1nvrlEAY6okd8gsbgmX.B/rEaLFyn5gYUA5zeUabxFcvdiC4BmS",
+  "role": "Doctor",
+  "doctorDepartment": "Radiology",
+  "docAvatar": {
+    "public_id": "tgs6rdv2texmmmyyb7li",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1713416661/aeoehjucjsbs465svqsf.webp"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "661df1eb32d4934a3e9f568c"
+  },
+  "firstName": "Ankur",
+  "lastName": "Verma",
+  "email": "ankur@gmail.com",
+  "phone": "9876543223",
+  "aadhaar": "123456789012",
+  "notification": false,
+  "dob": {
+    "$date": {
+      "$numberLong": "1516060800000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$emYolloMkH2HwqozzhFB5e7sQNO5JVP.VSYLW5DYss363MftbkH4m",
+  "role": "Patient",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "661df87d32d4934a3e9f588c"
+  },
+  "firstName": "Harshit",
+  "lastName": "Mishra",
+  "email": "mishra25harshit@gmail.com",
+  "phone": "9876543224",
+  "aadhaar": "123456789012",
+  "notification": false,
+  "dob": {
+    "$date": {
+      "$numberLong": "1712707200000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$yomOKJJj.j4NfNe5Q5Guy.Q9byUGbjDkVlgMt3JtI9zb9GcCAgHeK",
+  "role": "Patient",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "661e065d32d4934a3e9f58af"
+  },
+  "firstName": "Dr. Amit",
+  "lastName": "Singh",
+  "email": "amit@gmail.com",
+  "phone": "8765432111",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "700338600000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$xOp11HVhPgOUlzRaO7nk0Odh18IWXa0YzyBYIjrHEqvs/lq.CPdHa",
+  "role": "Doctor",
+  "doctorDepartment": "ENT",
+  "docAvatar": {
+    "public_id": "jttfuq8tdltlodsuzf7v",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1713243741/jttfuq8tdltlodsuzf7v.jpg"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "661e1967509faaca88a8ff52"
+  },
+  "firstName": "Dr. Radha",
+  "lastName": "Singh",
+  "email": "radhaa@gmail.com",
+  "phone": "8765432115",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "542485800000"
+    }
+  },
+  "gender": "Female",
+  "password": "$2b$10$neqGhReF0Ib74/zi7ahHLOzaGc7p4Bfy5pJnkcgkAQCF4SSwEJ6sO",
+  "role": "Doctor",
+  "doctorDepartment": "Pediatrics",
+  "docAvatar": {
+    "public_id": "bwgb5awtdhethbly6cey",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1713416814/bwgb5awtdhethbly6cey.webp"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "661e47e2acd6f324cbe1c0a1"
+  },
+  "firstName": "Dr. Vaibhav",
+  "lastName": "Malhaan",
+  "email": "vaibhav809@gmail.com",
+  "phone": "8765432116",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "727142400000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$Ge4gs/GiNDv6DHvaCTazjeIGEejXPEKZHfHdoWnkLy.1HXcxkUuMK",
+  "role": "Doctor",
+  "doctorDepartment": "Orthopedics",
+  "docAvatar": {
+    "public_id": "dhbcytq2x1owlco9wt4q",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1713260515/dhbcytq2x1owlco9wt4q.png"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "661e59bc37a950013a979347"
+  },
+  "firstName": "Dhruv",
+  "lastName": "Yadav",
+  "email": "dhruv@gmail.com",
+  "phone": "9876543225",
+  "aadhaar": "123456789012",
+  "notification": false,
+  "dob": {
+    "$date": {
+      "$numberLong": "954633600000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$S.FbpZYxkbuc.toFIOk51.Pc5M9Lk9NUWvMK1LjlqqiQcyGta2UfW",
+  "role": "Patient",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6620a93c478c681754a0f167"
+  },
+  "firstName": "Dr. Pratham",
+  "lastName": "Prabhakar",
+  "email": "p8prabhakar@gmail.com",
+  "phone": "8765432117",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "788832000000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$RTy..rE1G7F45DXdStwsuOKpcUsQI09elyfFT3EKcTaJrN51dyiAy",
+  "role": "Doctor",
+  "doctorDepartment": "Orthopedics",
+  "docAvatar": {
+    "public_id": "tvfsntzj1uafgjv9ythx",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1713416507/tvfsntzj1uafgjv9ythx.webp"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6620a9d5d6b63b128287ed0e"
+  },
+  "firstName": "Dr. A",
+  "lastName": "Jayachandra",
+  "email": "jayachandra@gmail.com",
+  "phone": "8765432118",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "533952000000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$jCLCPSXjUDBHbJODU4DRfOQR106s.8DbN7pSe/sOvvfFqjlfUIIzC",
+  "role": "Doctor",
+  "doctorDepartment": "Neurology",
+  "docAvatar": {
+    "public_id": "aeoehjucjsbs465svqsf",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1713416661/aeoehjucjsbs465svqsf.webp"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6620aa25d6b63b128287ed16"
+  },
+  "firstName": "Dr. AK ",
+  "lastName": "Jinsiwale",
+  "email": "jinsiwale@gmail.com",
+  "phone": "8765432119",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "604800000000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$f0rRRzGQlYz8HK29mZ0AgunQ0uCd2uChn4y/s1bIT/epzusxHNLvC",
+  "role": "Doctor",
+  "doctorDepartment": "Physical Therapy",
+  "docAvatar": {
+    "public_id": "r4xyoxu2hiwyivofgdvs",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1713416740/r4xyoxu2hiwyivofgdvs.webp"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6620aa6ed6b63b128287ed21"
+  },
+  "firstName": "Dr. Sneha",
+  "lastName": "Lakshmi",
+  "email": "s78lakshmi@gmail.com",
+  "phone": "8765432120",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "694137600000"
+    }
+  },
+  "gender": "Female",
+  "password": "$2b$10$dr1GG6cVnT6FDgpZ4N/q2uYNaUOrTwLjg/RVfdGjBHtcvFoZbz84y",
+  "role": "Doctor",
+  "doctorDepartment": "Dermatology",
+  "docAvatar": {
+    "public_id": "bwgb5awtdhethbly6cey",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1713416814/bwgb5awtdhethbly6cey.webp"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6620af8d5c7414b16012f631"
+  },
+  "firstName": "Dr. Aalok",
+  "lastName": "Somani",
+  "email": "somani908@gmail.com",
+  "phone": "8765432121",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "825552000000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$iCUM9O9GncmKU9gFGS6yeeFgbErFYjXrewlpkq.F9h08tf3Tyh1hy",
+  "role": "Doctor",
+  "doctorDepartment": "Oncology",
+  "docAvatar": {
+    "public_id": "kmktt2hmwxrov4pgxxxt",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1713418124/kmktt2hmwxrov4pgxxxt.webp"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6620afe45c7414b16012f639"
+  },
+  "firstName": "Dr. Abbas",
+  "lastName": "Naqvi",
+  "email": "anaqvi@gmail.com",
+  "phone": "8765432122",
+  "aadhaar": "123456789012",
+  "dob": {
+    "$date": {
+      "$numberLong": "788832000000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$Y8JpaisI0VUaeN7nQ78gbOb9yQvi0nv6LYbSfZHh0n4gTfof8z8/2",
+  "role": "Doctor",
+  "doctorDepartment": "Oncology",
+  "docAvatar": {
+    "public_id": "k1zrbeqviyqgagjfzufq",
+    "url": "https://res.cloudinary.com/dnbud6waq/image/upload/v1713418212/k1zrbeqviyqgagjfzufq.webp"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6621db9a99aaef6f25e42030"
+  },
+  "firstName": "Rakhi",
+  "lastName": "Kumari",
+  "email": "rakhik145@gmail.com",
+  "phone": "9876543226",
+  "aadhaar": "123456789012",
+  "notification": false,
+  "dob": {
+    "$date": {
+      "$numberLong": "973382400000"
+    }
+  },
+  "gender": "Female",
+  "password": "$2b$10$i4Um3kJ0OI0BbmxcVbeaneGRfI/LQt23tDVSoiBo.OKtqHhkUdkCG",
+  "role": "Patient",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66220b59b1bb688f4fc66d0f"
+  },
+  "firstName": "Amit",
+  "lastName": "Kapoor",
+  "email": "amit56@gmail.com",
+  "phone": "9876543227",
+  "aadhaar": "123456789012",
+  "notification": false,
+  "dob": {
+    "$date": {
+      "$numberLong": "975628800000"
+    }
+  },
+  "gender": "Male",
+  "password": "$2b$10$pcoVbDG2IulDg47JNDuweek8wgKGCV/zulsfNeUmO2CynU18X7EwW",
+  "role": "Patient",
+  "__v": 0
+}]
